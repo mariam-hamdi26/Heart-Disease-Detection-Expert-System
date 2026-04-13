@@ -72,5 +72,5 @@ The system includes:
 
 * Hybrid AI approach (ML + Expert System)
 * Explainable predictions
-* Real-time interactive UI باستخدام Streamlit
+* Real-time interactive UI  Streamlit
 * Focus on medical reliability (High Recall)
