@@ -1,6 +1,3 @@
-ده شكل README متظبط واحترافي تقدر تستخدمه مباشرة 👇
-
----
 
 # ❤️ Heart Disease Detection System
 
