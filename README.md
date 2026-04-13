@@ -77,7 +77,3 @@ The system includes:
 * Explainable predictions
 * Real-time interactive UI باستخدام Streamlit
 * Focus on medical reliability (High Recall)
-
----
-
-لو حابة أظبطه كمان بشكل **GitHub احترافي أكتر (badges + screenshots + demo section)** قوليلي وأنا أعملهولك level أعلى 🔥
