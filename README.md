@@ -24,6 +24,7 @@ Heart_Disease_Detection/
 ├── ui/                 # Streamlit application (app.py)
 ├── requirements.txt    # List of dependencies
 └── README.md           # Project documentation
+
 🛠️ Installation & Setup
 Clone the repository:
 
